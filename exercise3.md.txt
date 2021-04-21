@@ -1,0 +1,4 @@
+Object oriented - C++ : 
+exercise 3 :
+Tal Konortov 207681081
+Aviv Mor 316309103 

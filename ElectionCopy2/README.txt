@@ -1,0 +1,1 @@
+This project simulates an election (electoral election) with the option of loading and saving an existing election
